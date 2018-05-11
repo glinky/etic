@@ -72,10 +72,10 @@ input,textarea{font-size:inherit;font-family:inherit;}
 
 }
 
-.main-header{position:fixed;width:100%;top:0;left:0;padding:1em 0;background:orange;color:#FFF;z-index:99;}
+.main-header{position:fixed;width:100%;top:0;left:0;padding:1em 0;background:red;color:#FFF;z-index:99;}
 .main-menu{margin-top:0.5em;}
 .main-menu a{margin-left:1em;}
-.intro{position:relative;height:100vh;background:url(../img/intro.jpg) no-repeat center;background-size:cover;color:#FFF;text-align:center;}
+.intro{position:relative;height:100vh;background:url(../img/intro2.jpg) no-repeat center;background-size:cover;color:#FFF;text-align:center;}
 .intro header{position:relative;top:50%;transform: translateY(-50%);}
 .intro h2{font-size:3em;}
 .home-section{padding:3em 0;}
