@@ -79,6 +79,6 @@ input,textarea{font-size:inherit;font-family:inherit;}
 .intro header{position:relative;top:50%;transform: translateY(-50%);}
 .intro h2{font-size:3em;}
 .home-section{padding:3em 0;}
-.home-section h2{font-size:3em;color:orange;}
+.home-section h2{font-size:3em;color:red;}
 .home-section > header p{font-size:1.5em;line-height:1.5em;}
 .main-footer{background:#1a1a1a;color:#FFF;font-size:0.8em;margin-top:3em;text-align:center;padding:2em 0;}
